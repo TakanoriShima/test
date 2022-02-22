@@ -1,4 +1,4 @@
-@charset 'utf-8';
+@charset "utf-8";
 
 body {
 	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
@@ -116,7 +116,7 @@ header {
   .pc-menu a:hover {
     background: #48d165;
     color: white;
-}
+  }
 
 }
 
